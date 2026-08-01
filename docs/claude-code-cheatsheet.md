@@ -1,6 +1,10 @@
 # Claude Code Cheat Sheet
 ## Check, Debug, Fix, and More
 
+> New to Claude Code? Start with the
+> [Getting Started guide](./claude-code-getting-started.md), then come back here
+> as a reference.
+
 ---
 
 ## Checking & Reviewing Code
